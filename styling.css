@@ -1,0 +1,202 @@
+body{
+   overflow-x: hidden;
+   background-color:#e6dfdf;
+}
+.outter{
+    margin-top: 0px;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    padding-top: 12px;
+    height: 600px;
+    width: 500px;
+    background: rgba(88, 82, 74, 0.3);
+}
+.crownsignup{
+    position: absolute;
+    left: 315px;
+    height: 50px;
+    margin-top: -20px; 
+    margin-left: 310px;
+}
+.logosignup{
+    margin-top: 900px;
+    margin-left:45% ;
+    font-size: 90px;
+    color: black;
+}
+.inner{
+    margin-top: 25px;
+    margin-left: 50px;
+    height:35px;
+    width: 400px;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 5px;
+    border: none;
+    border-radius: 10px;
+    font-family: fantasy;
+    background-color: white;
+}
+.logodesign{
+    height: 100px;
+    width: 200px;
+    padding-left: 650px;
+    padding-top: 10px;
+    padding-right: auto;
+    padding-bottom: auto;
+}
+.imagehome{
+    background: url(https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iwQtBX1-cjH9Y74YPVxEng.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow:hidden;
+}
+.signup{
+    margin-top: 50px;
+    margin-left: 150px;
+    height:50px;
+    width: 200px;
+    font-size: 25px;
+    padding-left: 10px;
+    padding-top: 5px;
+    border: none;
+    border-radius: 10px;
+    font-family: fantasy;
+    background-color: white;
+}
+.signup:hover{
+    margin-top: 50px;
+    margin-left: 150px;
+    height:50px;
+    width: 200px;
+    font-size: 25px;
+    padding-left: 10px;
+    padding-top: 5px;
+    border: none;
+    border-radius: 10px;
+    font-family: fantasy;
+    color: aliceblue;
+    cursor: pointer;
+    background-color: black;
+}
+
+.header{
+    position: static;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 90px;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.logo{
+    order: -1;
+    padding-right: 70px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 90px;
+    color: black;
+}
+.user {
+    font-size: 20px;
+    color: black;
+    display: flex; 
+    justify-content: flex-end; 
+    align-items: center; 
+}
+.menusbut
+{
+    text-decoration: none;
+    font-size: 25px;
+    color:#0f3a00;
+}
+.menusbut:hover{
+    color: rgb(255, 72, 0);
+}
+.imgus {
+    height: 20px;
+    width: 25px;
+    margin-left: 10px; 
+}
+
+span {
+    margin-right: 0px; 
+}
+.crown {
+    
+    position: absolute;
+    left: 60px;
+    height: 50px;
+    margin-top: -20px; 
+    margin-left: 80px; 
+}
+.products{
+    width: 100%;
+    height: 1000px;
+    border-radius: 20px;;
+    padding-left: 122px;
+}
+.image{
+    background-color: rgba(201, 199, 198, 0.3);
+    width: 300px;
+    height:400px;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    cursor:pointer;
+}
+.productimg{
+    width:300px;
+    height: 250px;
+    
+}
+.cart{
+    width: 130px;
+    height: 50px;
+    background-color: black;
+    color: rgb(250, 250, 250);
+    cursor: pointer;
+    border-radius: 4px;
+}
+.words{
+    font-size: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+.buy{
+    width: 130px;
+    height: 50px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    border-radius: 4px;
+    margin-left: 20px;
+}
+.imagesarrange{
+    padding-top: 20px;
+    padding-left: 0px;
+    padding-bottom: 10px;
+    padding-right: 0px;
+
+}
+.imageselection{
+    display: inline-block;
+
+}
+.imgslct{
+    height: 500px;
+    width: 650px;
+}
+.discount{
+    padding-top: 0px;
+    
+      width: 100%;
+      height: 400px;
+      margin-left: 0px;
+      opacity: 0.8;
+}
